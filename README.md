@@ -22,15 +22,17 @@ Installation
 Clone this repository to your local machine:
 
 bash
-git clone 
+git clone https://github.com/AyushTIW30/Rollercoaster-Ticketing-System/blob/main/Rollercoaster_Ride.py
+
 Navigate to the project directory:
 
 bash
+
 cd Rollercoaster-Ticketing-System
 Run the program:
 
 bash
-python rollercoaster_ticket.py
+python Rollercoaster_Ride.py
 Example
 Here’s an example of how the program works:
 
